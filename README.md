@@ -1,4 +1,5 @@
 # 🟢 KhazinSmart: Deep Learning (LSTM) Supply Chain trained on Walmart Dataset
+Status: 🚧 Work In Progress 
 
 ![AI-Architecture](https://img.shields.io/badge/Architecture-LSTM-blueviolet?style=for-the-badge)
 ![Training-Data](https://img.shields.io/badge/Training-Walmart_Sales_Dataset-blue?style=for-the-badge)

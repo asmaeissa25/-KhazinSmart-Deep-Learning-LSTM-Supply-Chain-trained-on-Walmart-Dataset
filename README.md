@@ -1,8 +1,8 @@
-# 🟢 KhazinSmart: AI-Driven Supply Chain & Inventory Forecasting
+# 🟢 KhazinSmart: Deep Learning (LSTM) Supply Chain trained on Walmart Dataset
 
-![Status](https://img.shields.io/badge/Status-Under--Development-orange?style=for-the-badge)
-![AI-Model](https://img.shields.io/badge/LSTM-Walmart--Dataset-blue?style=for-the-badge)
-![Market](https://img.shields.io/badge/Market-Morocco--Retail-green?style=for-the-badge)
+![AI-Architecture](https://img.shields.io/badge/Architecture-LSTM-blueviolet?style=for-the-badge)
+![Training-Data](https://img.shields.io/badge/Training-Walmart_Sales_Dataset-blue?style=for-the-badge)
+![Market](https://img.shields.io/badge/Target-Moroccan_Retail-green?style=for-the-badge)
 
 **KhazinSmart** is an enterprise-grade solution that eliminates food waste and optimizes inventory for Moroccan grocery giants. By leveraging **Deep Learning (LSTM)**, we predict demand patterns with high precision.
 

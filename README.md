@@ -17,12 +17,12 @@ In Morocco, thousands of tons of perishable goods are wasted annually due to ine
 * **🌍 Multi-City Regional Sync:** A centralized dashboard to manage and balance inventory across different regional warehouses.
 * **📊 Inventory Insights:** Professional KPIs tracking stock turnover, waste prevention, and profit margins.
   
-## 🧠 The AI Engine: LSTM Neural Networks
-KhazinSmart isn't just a dashboard; it's powered by a **Long Short-Term Memory (LSTM)** recurrent neural network. 
+## 🧠 AI Engine & Model Training
+The core of KhazinSmart is a **Deep Learning LSTM (Long Short-Term Memory)** model, specifically designed for Time-Series forecasting.
 
-* **Trained Data:** We used historical sales datasets specifically from the Moroccan retail market, including seasonal peaks (Ramadan, Eid, Summer holidays).
-* **Time-Series Analysis:** The LSTM model analyzes past inventory flows to predict future demand with high precision.
-* **Adaptability:** Unlike traditional algorithms, our model learns from local market fluctuations and supply chain disruptions.
+* **Training Dataset:** The model was trained using the **Walmart Sales Dataset** (recruiting competition data), providing millions of historical retail transactions to ensure robust pattern recognition.
+* **Architecture:** Multi-layered LSTM to capture seasonality, promotional impacts, and price elasticity.
+* **Transfer Learning:** While trained on global retail data (Walmart), the model is optimized to be fine-tuned for the local Moroccan market dynamics.
 
 ## 🛠 Tech Stack
 * **Frontend:** React.js (Vite)

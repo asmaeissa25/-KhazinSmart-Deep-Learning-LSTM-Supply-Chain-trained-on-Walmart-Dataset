@@ -8,13 +8,6 @@
 
 ---
 
-## 🖥️ Project Preview
-| Landing Page | Enterprise Dashboard |
-| :--- | :--- |
-| ![Home](https://raw.githubusercontent.com/your-username/KhazinSmart/main/screenshots/home.png) | ![Dashboard](https://raw.githubusercontent.com/your-username/KhazinSmart/main/screenshots/dashboard.png) |
-
----
-
 ## 🧠 The AI Engine: Deep Learning (LSTM)
 The core of KhazinSmart isn't just a dashboard; it's powered by a **Long Short-Term Memory (LSTM)** recurrent neural network.
 

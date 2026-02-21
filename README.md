@@ -38,28 +38,36 @@ The core of KhazinSmart isn't just a dashboard; it's powered by a **Long Short-T
 * **AI Backend:** Python, TensorFlow/Keras (LSTM Architecture)
 * **Environment:** Trained on Google Colab
 
+Fahmtk mzyan, dik l-partie dyal **Installation & Setup** f GitHub (image_69b286.png) k-t-ban chwiya "t9ila" f l-chouf hit l-codes mfar9in bezaf w mashi compacte. Bach t-kon m9adda (Pro), khassha t-kon b-hal had l-vibe dyal l-apps d b-se7.
+
+Hania, ghadi n-3tiwek l-code Markdown li ghadi y-rodha m9adda b-l-mousstara f GitHub:
+
 ---
+## 📦 Getting Started
 
-## 📦 Installation & Setup
+Follow these steps to set up the project locally:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/KhazinSmart.git](https://github.com/your-username/KhazinSmart.git)
+### 1. Clone & Navigate
+```bash
+git clone [https://github.com/your-username/KhazinSmart.git](https://github.com/your-username/KhazinSmart.git)
+cd KhazinSmart
 
 ```
 
-2. **Install dependencies:**
+### 2. Install Dependencies
+
 ```bash
 npm install
 
 ```
 
+### 3. Start Development
 
-3. **Launch the development server:**
 ```bash
 npm run dev
 
 ```
 
+> **Note:** Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-
+```

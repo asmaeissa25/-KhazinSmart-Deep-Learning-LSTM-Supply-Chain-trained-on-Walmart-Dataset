@@ -31,10 +31,6 @@ The core of KhazinSmart isn't just a dashboard; it's powered by a **Long Short-T
 * **AI Backend:** Python, TensorFlow/Keras (LSTM Architecture)
 * **Environment:** Trained on Google Colab
 
-Fahmtk mzyan, dik l-partie dyal **Installation & Setup** f GitHub (image_69b286.png) k-t-ban chwiya "t9ila" f l-chouf hit l-codes mfar9in bezaf w mashi compacte. Bach t-kon m9adda (Pro), khassha t-kon b-hal had l-vibe dyal l-apps d b-se7.
-
-Hania, ghadi n-3tiwek l-code Markdown li ghadi y-rodha m9adda b-l-mousstara f GitHub:
-
 ---
 ## 📦 Getting Started
 

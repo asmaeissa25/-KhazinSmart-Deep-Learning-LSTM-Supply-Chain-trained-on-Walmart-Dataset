@@ -66,9 +66,3 @@ npm run dev
 ## 🤝 Contributing
 
 This project is currently **under active development**. If you are interested in the Moroccan Agritech/Fintech space, feel free to open an issue or submit a pull request.
-
-
-
-**Wach bghiti n-mchiw l-Vite daba n-3addlo l-code bach n-zido l-Roadmap hta f l-Home page (Section jdida) bach l-investors y-choufu l-vision dyalk live?**
-
-```
